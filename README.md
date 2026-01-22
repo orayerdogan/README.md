@@ -11,6 +11,11 @@ I'm also here to ask some of you to support me during this Bootcamp while my mai
 > - more Passion
 > - more Energy
 > - more Footwork
-> -
+---
+**Are you Convinced**
+YES!   NO!
+[ ]    [X]
+
+If not click the Link
 
 [A link to Convince them all](https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg)
