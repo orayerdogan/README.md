@@ -18,6 +18,6 @@ I'm also here to ask some of you to support me during this Bootcamp while my mai
 
 [ ]    [X]
 
-##### If not click the Link below! [('; ;')](https://share.google/vfKv9bZOIRRPgRSkX)
+##### If not click the Link below! [('; ;')](https://share.google/vfKv9bZOIRRPgRSkX.gif)
 
 [A link to Convince them all](https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg)
