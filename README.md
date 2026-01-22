@@ -4,7 +4,7 @@
 
 _It's a me Mariooooo!!! just kidding I'm princess Peach ;P_
 
-`I'm Mister Pepe Osima Jr. I came to Lodon to Conquer the Big Ben
+` Now here is my true identity. I'm Mister Pepe Osima Jr. I came to Lodon to Conquer the Big Ben
 I'm also here to ask some of you to support me during this Bootcamp while my main focus is still the Big Ben`
 
 > What you bring
