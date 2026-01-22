@@ -1,7 +1,5 @@
-#Not my very first Repo but my very first .md
+# Not my very first Repo but my very first .md
 
-##Who am i you want to know? here we go!
+## Who am i you want to know? here we go!
 
- <<<
- It's a me Mariooooo!!! just kidding I'm princess Peach ;P
- >>>
+It's a me Mariooooo!!! just kidding I'm princess Peach ;P
