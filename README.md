@@ -14,7 +14,8 @@ I'm also here to ask some of you to support me during this Bootcamp while my mai
 ---
 **Are you Convinced**
 
-YES!   NO!
+` YES!   NO! `
+
 [ ]    [X]
 
 If not click the Link
